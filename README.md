@@ -61,7 +61,7 @@ My projects on GitHub and Tableau Public showcase my proficiency in data analysi
     - 📊 Modules: Data Analysis, Data Visualization with Excel, Tableau, Power BI, and Python Programming for Data Analysis.
     - ☁️ Azure Fundamentals (Core data concepts, Relational & Non-relational data).
   
-- 🎓 2003: Bachelor of Engineering in Electronics and Communication, Institute of Engineering & Technology, Lucknow, India (1st Class, 77%).
+- 🎓 2003: Bachelor of Engineering in Electronics and Communication, Institute of Engineering & Technology, India (1st Class, 77%).
    
 - 🏆 2023: ISTQB Certified - Foundation Level Agile Tester (90%).
 
