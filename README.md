@@ -1,10 +1,12 @@
 # Hello! I'm Poonam Goswami 👋
 
-Welcome to my GitHub Profile.
+<B>Welcome to my GitHub Profile.</B>
 
 I am an experienced IT professional with a strong background in Software Quality Assurance and Testing, currently transitioning into data analysis. I have recently upskilled in Data Analysis through a Level 3 Data Technician Bootcamp. I'm looking to apply my technical skills and analytical mindset to a Data Technician or Apprentice role. 📊
-
-## 👨‍💻 About Me
+<hr>
+<h2>
+<B>👨‍💻 About Me</B>
+</h2>
 
 - 🎓 **Degree:** Bachelor of Engineering (First Honors) in Electronics and Communication Engineering.
 - 📜 **Certifications:** ISTQB Certified (Foundation Level & Agile Tester).
@@ -13,8 +15,13 @@ I am an experienced IT professional with a strong background in Software Quality
 - 🔍 **Current Focus:** Data Analysis, Data Visualization, and Python programming for data analysis.
 
 My projects on GitHub and Tableau Public showcase my proficiency in data analysis tools like **Excel**, **SQL**, **Python**, **Tableau**, and **PowerBI**. I'm passionate about leveraging data to drive decisions and make an impact. 📈
+<hr>
 
-## 🚀 Key Skills
+<h2>
+<B><u>🚀 Key Skills</u></B>
+</h2>
+
+
 
 ### 🛠️ **Technical Skills:**
 - **Data Analysis:** Excel, Google Sheets (XLOOKUP, Pivot Tables, Charts)
@@ -29,18 +36,9 @@ My projects on GitHub and Tableau Public showcase my proficiency in data analysi
 - **Analytical & Logical Thinking:** Strong ability to analyze and interpret data with precision.
 - **Attention to Detail:** Developed in Software Testing roles, ensuring high-quality outcomes.
 
- ### 🛠️ Data Analysis Skills
-
-
-<p></p>
-
+ ### 🛠️ Data Analysis Skills:
 
 <b>I have experience using these data analysis and Visualization tools.<b>
-
-<!--
-
---->
-
 
 <p align="center"> 
 <a href="#" target="_blank">  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
@@ -55,26 +53,21 @@ My projects on GitHub and Tableau Public showcase my proficiency in data analysi
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a> 
 </p> 
 
-
-
-
-
-
 <br>
-<br>
-📚 Education & Certifications
 
-- 🎓 **2024 (Oct - Dec):** Digital Skills Bootcamp - Data Technician, Just IT Training, London.
+<hr>
+<H2> 📚 Education & Certifications  </H2>
+- 🎓 2024 (Oct - Dec): Digital Skills Bootcamp - Data Technician, Just IT Training, London.
     - 📊 Modules: Data Analysis, Data Visualization with Excel, Tableau, Power BI, and Python Programming for Data Analysis.
     - ☁️ Azure Fundamentals (Core data concepts, Relational & Non-relational data).
   
-- 🎓 **2003:** Bachelor of Engineering in Electronics and Communication, Institute of Engineering & Technology, Lucknow, India (1st Class, 77%).
+- 🎓 2003: Bachelor of Engineering in Electronics and Communication, Institute of Engineering & Technology, Lucknow, India (1st Class, 77%).
    
-- 🏆 **2023:** ISTQB Certified - Foundation Level Agile Tester (90%).
+- 🏆 2023: ISTQB Certified - Foundation Level Agile Tester (90%).
 
-- 🏆 **2009:** ISTQB Certified - Foundation Level (85%).
-
-## 🛠️ Projects & Work Experience
+- 🏆 2009: ISTQB Certified - Foundation Level (85%).
+<HR>
+<H2> 🛠️ Projects & Work Experience</H2>
 
 ### ✈️ **Senior Test Analyst**  
 Jet2holidays.com (2011–2013)  
@@ -91,11 +84,22 @@ NIIT Technologies Pvt. Ltd. (2007–2011)
 Niksun India Pvt. Ltd. (2006–2007)  
 - Designed and developed the watchDog AutoRecovery Monitor.
 - Conducted complete testing and deployment, maintaining software performance.
+<HR>
+<H2>📊 Data Analysis Projects</H2>
+<!--You can explore my data analysis projects on my [GitHub](https://github.com/YourUsername) and [Tableau Public](https://public.tableau.com/profile/yourusername).-->
 
-### 📊 **Data Analysis Projects**  
-You can explore my data analysis projects on my [GitHub](https://github.com/YourUsername) and [Tableau Public](https://public.tableau.com/profile/yourusername).
+<H3>Excel</H3>
+https://github.com/GPoonam80/Kevin-Cookie-Performance-Analysis-Excel-
 
-## 🌐 Connect with Me
+<H3>Tableau</H3>
+
+<H3>Power BI</H3>
+
+<H3>SQL</H3>
+
+<H3>Phython</H3>
+<HR>
+<H2>🌐 Connect with Me</H2>
 
 - 🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
 - 🌍 **Website/Portfolio:** [Your Website](https://yourwebsite.com)
