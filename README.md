@@ -98,6 +98,7 @@ Niksun India Pvt. Ltd. (2006–2007)
 <H3>Power BI</H3>
 
 <H3>SQL</H3>
+https://github.com/GPoonam80/Data-Analysis-Using-SQL-WORLD-DB-
 
 <H3>Phython</H3>
 <HR>
