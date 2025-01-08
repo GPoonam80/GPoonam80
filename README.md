@@ -89,9 +89,13 @@ Niksun India Pvt. Ltd. (2006–2007)
 <!--You can explore my data analysis projects on my [GitHub](https://github.com/YourUsername) and [Tableau Public](https://public.tableau.com/profile/yourusername).-->
 
 <H3>Excel</H3>
+ https://github.com/GPoonam80/Foundations-of-Data-Analysis-with-Excel
+ 
  https://github.com/GPoonam80/Kevin-Cookie-Performance-Analysis-Excel-
  
  https://github.com/GPoonam80/Ski-Resort-Data-Analysis
+
+ 
 
 <H3>Tableau</H3>
 
@@ -104,7 +108,7 @@ https://github.com/GPoonam80/Data-Analysis-Using-SQL-WORLD-DB-
 <HR>
 <H2>🌐 Connect with Me</H2>
 
-- 🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
+- 🔗 **LinkedIn:** www.linkedin.com/in/poonamgoswami
 - 🌍 **Website/Portfolio:** https://sites.google.com/view/gpoonam80/home
 
 
