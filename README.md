@@ -105,12 +105,12 @@ Niksun India Pvt. Ltd. (2006–2007)
 https://github.com/GPoonam80/Data-Analysis-Using-SQL-WORLD-DB-
 
 <H3>Phython</H3>
+https://github.com/GPoonam80/EDA_Bank_Campaign
+
 <HR>
 <H2>🌐 Connect with Me</H2>
 
 - 🔗 **LinkedIn:** www.linkedin.com/in/poonamgoswami
-- 🌍 **Website/Portfolio:** https://sites.google.com/view/gpoonam80/home
-
 
 
 ---
