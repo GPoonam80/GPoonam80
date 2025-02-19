@@ -107,6 +107,8 @@ https://github.com/GPoonam80/Data-Analysis-Using-SQL-WORLD-DB-
 <H3>Phython</H3>
 https://github.com/GPoonam80/EDA_Bank_Campaign
 
+https://github.com/GPoonam80/ML_Classification_BankCampaign
+
 <HR>
 <H2>🌐 Connect with Me</H2>
 
